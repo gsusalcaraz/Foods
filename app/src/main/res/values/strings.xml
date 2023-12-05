@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Foods</string>
+    <string name="food_btn_save">Save</string>
+    <string name="food_btn_clear">Clear</string>
+    <string name="hint_price">price</string>
+    <string name="hint_name">name</string>
+    <string name="hint_type">type</string>
+    <string name="food_save_error">Error.</string>
+    <string name="item_food_price">$%.2f</string>
+</resources>
